@@ -1,4 +1,8 @@
 asciisnow
 =========
 
-Terminal Snow!
+Snow on the command line!  Yay!
+
+
+
+Requires npm ncurses
