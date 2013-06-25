@@ -38,7 +38,7 @@ function move() {
 	for(var i=0;i<numFlakes;i++) {
 		flakes[i].row += flakes[i].vertSpeed;
 		flakes[i].col += flakes[i].horzSpeed;
-		if(flakes[i].row > w.height || flakes[i].col < 0 || flakes[i].row > w.width) {
+		if(flakes[i].row > w.height || flakes[i].col < 0 || flakes[i].col > w.width) {
 			initFlake(flakes[i]);
 		}
 	}
