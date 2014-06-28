@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ncurses": "^0.4.1"
+  }
+}

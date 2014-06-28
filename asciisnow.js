@@ -3,7 +3,7 @@
 // npm install ncurses
 
 var config = {
-	'refresh':20,
+	'refresh':17,
 	'flakeFactor':2
 };
 
