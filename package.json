@@ -1,8 +1,8 @@
 {
 	"name": "asciisnow",
+	"repository": "http://github.com/nealhardesty/asciisnow",
 	"version": "0.0.1",
 	"license": "MIT",
   "dependencies": {
-    "ncurses": "^0.4.1"
   }
 }
